@@ -19,11 +19,12 @@ DVD Rental数据库中有15个表
 
 ## 下载PostgreSQL示例数据库
 
-您可以通过以下链接下载PostgreSQL DVD Rental示例数据库：[下载DVD租赁样本数据库](https://sp.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
+您可以通过以下链接下载PostgreSQL DVD Rental示例数据库：[下载DVD租赁样本数据库](https://postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip)
 数据库文件的zip格式为（dvdrental.zip），因此dvdrental.tar 在将示例数据库加载到PostgreSQL数据库服务器之前，需要将其解压缩。
 
 ## 下载可打印的ER图
 
 除了示例数据库外，我们还为您提供PDF格式的可打印ER图。您可以在练习PostgreSQL的同时下载并打印ER图以供参考。
-[下载可打印的ER图](https://sp.postgresqltutorial.com/wp-content/uploads/2018/03/printable-postgresql-sample-database-diagram.pdf)本教程向您介绍了名为DVD Rental的PostgreSQL示例数据库。我们将在我们的PostgreSQL教程中使用此数据库，因此请确保您将其存储在服务器上。
-[postgresql](https://www.modb.pro/tag/postgresql?type=knowledge)
+[下载可打印的ER图](https://postgresqltutorial.com/wp-content/uploads/2018/03/printable-postgresql-sample-database-diagram.pdf)本教程向您介绍了名为DVD Rental的PostgreSQL示例数据库。我们将在我们的PostgreSQL教程中使用此数据库，因此请确保您将其存储在服务器上。
+
+[原文链接](https://www.modb.pro/db/27910)
