@@ -1,7 +1,7 @@
 Homework of NJNU Database Principle and Application Course 2022 Fall
 
-1. Any questions about GitHub or Linux are welcome to discuss in [Issue](https://github.com/nnucsta/DB2022FALL/issues).
+1. 有任何github或者linux的问题都欢迎在[Issue](https://github.com/nnucsta/DB2022FALL/issues)中创建问题提问。
 
-2. Questions related to specialized courses such as Database Principle and Application can also be created as [Issue](https://github.com/nnucsta/DB2022FALL/issues) for discussion.
+2. 数据库等专业课相关问题也可以创建[Issue](https://github.com/nnucsta/DB2022FALL/issues)讨论。
 
-3. It is highly recommended to star at this repository.
+3.  建议大家都star一下本仓库。
