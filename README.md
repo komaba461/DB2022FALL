@@ -22,7 +22,8 @@ Yanhui Gu (Office Hour: 明理楼317, Tuesdays 2-4pm, or by appointment.)<br />
 Teaching Assistant: Xiaojian Chen
 
 ## Time and Location
-Tue 8:00am-10:30am 学正楼404
+Mon 8:00am-10:30am 学明楼214												
+
 
 ## About Homework
 1. 有任何 github 或者 linux 的问题都欢迎在 [Issue](https://github.com/nnucsta/DB2022FALL/issues) 中创建问题提问。
